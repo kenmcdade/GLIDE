@@ -13,7 +13,7 @@ This codebase is a **research and exploration environment**, not a flight-ready 
 
 V4 work emphasizes **dispersion recovery**, **corridor entry**, and **terminal closure** validated with Monte Carlo campaigns and gate-speed constraint checks.
 
-> NOTE: V4 does *not* imply a full operational system implementation—this repo focuses on the physics/control feasibility and the requirements that fall out of that analysis.
+> NOTE: V4 does *not* imply a full operational system implementation. This repo focuses on the physics/control feasibility and the requirements that fall out of that analysis.
 
 ## Repository Contents
 
