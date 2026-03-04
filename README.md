@@ -22,18 +22,18 @@ High level:
   - Electrodynamic tether forces / Lorentz authority
   - Orbital energy exchange and scaling behavior
   - Gravity and simplified environmental assumptions
-- Numerical and visualization tools for inspecting system behavior over time :contentReference[oaicite:1]{index=1}
+- Numerical and visualization tools for inspecting system behavior over time
 
 ### Numeric Simulation Core (v3.1)
 
-The directory `glide_v3_1/` contains a non-visual, numerically stable simulation core intended for engineering analysis and energy accounting. :contentReference[oaicite:2]{index=2}
+The directory `glide_v3_1/` contains a non-visual, numerically stable simulation core intended for engineering analysis and energy accounting.
 
 This core focuses on:
 - Explicit energy tracking
 - Stability under stiff tether dynamics
-- Separation of configuration, integration, and subsystem models :contentReference[oaicite:3]{index=3}
+- Separation of configuration, integration, and subsystem models
 
-See `glide_v3_1/README.md` for details and usage instructions. :contentReference[oaicite:4]{index=4}
+See `glide_v3_1/README.md` for details and usage instructions.
 
 ## Where to start
 
@@ -46,4 +46,4 @@ If you are new here:
 
 ## Notes
 
-This codebase is under active development; assumptions are made explicit and may change as the model evolves. :contentReference[oaicite:5]{index=5}
+This codebase is under active development; assumptions are made explicit and may change as the model evolves.
