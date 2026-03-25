@@ -1,1 +1,0 @@
-"""Mode and gate logic."""
