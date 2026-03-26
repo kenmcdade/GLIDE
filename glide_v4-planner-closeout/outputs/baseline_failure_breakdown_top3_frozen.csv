@@ -1,0 +1,4 @@
+cause,count,pct_of_failures
+no_R_COR_large_alongtrack_position_dispersion,11,0.4230769230769231
+no_R_COR_moderate_coupled_dispersion,9,0.34615384615384615
+no_R_COR_large_alongtrack_velocity_dispersion,6,0.23076923076923078
